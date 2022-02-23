@@ -1,7 +1,7 @@
 import { Component, OnInit } from '@angular/core';
 
 @Component({
-  selector: 'app-pie',
+  selector: 'pie',
   templateUrl: './pie.component.html',
   styleUrls: ['./pie.component.css']
 })
